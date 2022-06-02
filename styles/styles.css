@@ -1,0 +1,14 @@
+button{
+    text-decoration: none;
+}
+nav{
+    margin-top: 2rem;
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+.col-md-6 .txt{
+    position:absolute;
+}
